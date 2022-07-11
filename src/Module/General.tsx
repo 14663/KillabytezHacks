@@ -35,7 +35,7 @@ const TOP_SECTION = {
     'Win awesome prizes'
   ],
   SHORT_DESCRIPTION:
-    'Join us starting July 11, 2022 with over 300 students from across the nation for a 4-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.',
+    'Join us starting July 18, 2022 with over 300 students from across the nation for a 3-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.',
   IMG_SRC: boy,
   DISCORD_LINK: 'https://discord.gg/8vCXtABd',
   JUDGES_FORM_LINK: 'https://forms.gle/s1Ts8BCNjYZ4mAPv6',
@@ -46,8 +46,8 @@ const SOCIALS = {
   instagram: 'https://www.instagram.com/limbohacks/',
   discord: 'https://discord.gg/8vCXtABd',
   linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
-  devpost: 'https://limbo-hacks-12968.devpost.com/',
-  email: 'mailto:hello@limbohacks.tech',
+  devpost: 'https://killabytez-hacks.devpost.com/',
+  email: 'mailto:hello@info@killabytez.club',
   mail: 'info@killabytez.club'
 };
 
@@ -62,11 +62,11 @@ const MIDDLE_SECTION = {
 const FOOTER = {
   VOLUNTEERING_FORM: {
     required: true,
-    src: 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNFBQME44TzJZWDc2UFgwTUtLN0xDQVYyUi4u'
+    src: 'https://forms.gle/AMzhMGwfjvQ5McWB7'
   },
   JOIN_TEAM: {
     required: true,
-    src: 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUOUhEQkJSRk02OEU4SlBMTUdYOFIxOTNZSy4u'
+    src: 'https://forms.gle/AMzhMGwfjvQ5McWB7'
   },
   Privacy_policy: {
     required: true,
@@ -92,60 +92,95 @@ const calenderStartingDate = {
 
 const schedule = [
   {
-    day: '8-11-2021',
+    day: '18-7-2022',
     events: [
       {
-        title: 'Intro to phycycology',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Computer Aided Design (CAD)',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
   },
   {
-    day: '5-12-2021',
+    day: '20-7-2022',
     events: [
       {
-        title: 'Intro to deep learning',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Programming in Java',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       },
+    ]
+  },
+  {
+    day: '22-7-2022',
+    events: [
       {
-        title: 'Intro to deep learning',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Hardware',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
   },
   {
-    day: '3-12-2021',
+    day: '25-7-2022',
     events: [
       {
-        title: 'Intro to phycycology',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Computer Aided Design (CAD)',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
   },
   {
-    day: '1-12-2021',
+    day: '27-7-2022',
     events: [
       {
-        title: 'Intro to deep learning',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Programming in Java',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
+      },
+    ]
+  },
+  {
+    day: '29-7-2022',
+    events: [
+      {
+        title: 'Intro to Hardware',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
   },
   {
-    day: '1-1-2022',
+    day: '1-8-2022',
     events: [
       {
-        title: 'Intro to phycycology',
-        timings: '12 AM - 1 Pm',
-        link: 'https://google.com'
+        title: 'Intro to Computer Aided Design (CAD)',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
-  }
+  },
+  {
+    day: '3-8-2022',
+    events: [
+      {
+        title: 'Intro to Programming in Java',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
+      },
+    ]
+  },
+  {
+    day: '5-8-2022',
+    events: [
+      {
+        title: 'Intro to Hardware',
+        timings: '6 PM - 7 PM',
+        link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
+      }
+    ]
+  },
 ];
 
 /** ICON
@@ -207,7 +242,7 @@ const Prizeinfo = [
     {
       icon: <i className="fas fa-user-friends seventh fa-3x "></i>,
       type: 'More prizes',
-      content: 'More prizes will be revealed later'
+      content: 'More prizes will be revealed later\n'
     }
   ]
 ];
@@ -367,7 +402,7 @@ const frequentlyAskedQuestions = [
       },
       {
         label: 'Will there be swag?',
-        content: 'Yes! All participants will receive Killabytez Hacks swag!.'
+        content: 'Yes! All participants will receive Killabytez Hacks swag! Coming soon.'
       },
       {
         label: 'I have more questions?',
