@@ -137,15 +137,6 @@ export default function HomePage() {
         </Row>
         {/* ********Prizes ending here ***** */}
 
-        {/* ********Sponsors here ***** */}
-
-        <Row className="sponsorSection" id="sponsors">
-          <SponsorsHead />
-          <SponsorUS />
-          {sponsorLogos.map(SponsorGroup)}
-        </Row>
-        {/* ********Sponsors ending here ***** */}
-
         {media && <Birds top="120vh" left="0vh" type="" />}
 
         {/* ********Team here ***** */}
@@ -172,6 +163,15 @@ export default function HomePage() {
         )}
         {JudgesInfo.map(TeamMembers)}
         {/* ********Team ending here ***** */}
+
+        {/* ********Sponsors here ***** */}
+
+        <Row className="sponsorSection" id="sponsors">
+          <SponsorsHead />
+          <SponsorUS />
+          {sponsorLogos.map(SponsorGroup)}
+        </Row>
+        {/* ********Sponsors ending here ***** */}
       </Container>
       <Footer />
     </div>

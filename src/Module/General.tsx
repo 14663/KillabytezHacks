@@ -358,6 +358,13 @@ const JudgesInfo = [
       github: '',
       linkedin: '',
       img: zoha
+    },
+    {
+      Name: 'Allen Cisto',
+      role: 'Allen Cisto',
+      github: 'https://github.com/allencisto',
+      linkedin: 'https://www.linkedin.com/in/allen-cisto-54a679233/',
+      img: zoha
     }
   ]
 ];
