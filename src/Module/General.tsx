@@ -47,7 +47,7 @@ const SOCIALS = {
   discord: 'https://discord.gg/8vCXtABd',
   linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
   devpost: 'https://killabytez-hacks.devpost.com/',
-  email: 'mailto:hello@info@killabytez.club',
+  email: 'mailto:info@killabytez.club',
   mail: 'info@killabytez.club'
 };
 
