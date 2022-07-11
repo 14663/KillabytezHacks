@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KillabytezHacks/static/css/main.9ac21eb1.chunk.css",
-    "main.js": "/KillabytezHacks/static/js/main.dfcdcfbd.chunk.js",
-    "main.js.map": "/KillabytezHacks/static/js/main.dfcdcfbd.chunk.js.map",
+    "main.js": "/KillabytezHacks/static/js/main.843b4163.chunk.js",
+    "main.js.map": "/KillabytezHacks/static/js/main.843b4163.chunk.js.map",
     "runtime-main.js": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js",
     "runtime-main.js.map": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js.map",
-    "static/js/2.72d23ee1.chunk.js": "/KillabytezHacks/static/js/2.72d23ee1.chunk.js",
-    "static/js/2.72d23ee1.chunk.js.map": "/KillabytezHacks/static/js/2.72d23ee1.chunk.js.map",
+    "static/js/2.3ea346bc.chunk.js": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js",
+    "static/js/2.3ea346bc.chunk.js.map": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js.map",
     "index.html": "/KillabytezHacks/index.html",
     "static/css/main.9ac21eb1.chunk.css.map": "/KillabytezHacks/static/css/main.9ac21eb1.chunk.css.map",
-    "static/js/2.72d23ee1.chunk.js.LICENSE.txt": "/KillabytezHacks/static/js/2.72d23ee1.chunk.js.LICENSE.txt",
+    "static/js/2.3ea346bc.chunk.js.LICENSE.txt": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js.LICENSE.txt",
     "static/media/Privacy policy.9854a808.pdf": "/KillabytezHacks/static/media/Privacy policy.9854a808.pdf",
     "static/media/Ryah.6f561055.jpg": "/KillabytezHacks/static/media/Ryah.6f561055.jpg",
     "static/media/Terms of use.c2255556.pdf": "/KillabytezHacks/static/media/Terms of use.c2255556.pdf",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4ab6e787.js",
-    "static/js/2.72d23ee1.chunk.js",
+    "static/js/2.3ea346bc.chunk.js",
     "static/css/main.9ac21eb1.chunk.css",
-    "static/js/main.dfcdcfbd.chunk.js"
+    "static/js/main.843b4163.chunk.js"
   ]
 }
