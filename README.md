@@ -132,7 +132,7 @@ Personalize page content in `/src/Module/general.js` & modify it as per your nee
 import boy from "./Assets/boy.png";
 /* Change top section of the website  */
 const TOP_SECTION = {
-  TITLE: "Join Limbo Hacks",
+  TITLE: "Join Killabytez Hacks",
   // Typing effect
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   SHORT_DESCRIPTION:
@@ -163,9 +163,9 @@ const SOCIALS = {
 
 /* Customize middle section of your website */
 const MIDDLE_SECTION = {
-  TITLE: "What is Limbo hacks?",
+  TITLE: "What is Killabytez Hacks?",
   LONG_DESCRIPTION:
-    "Hack Limbo is 24 hour long running hackathon will be held on November 20th & 21th ........",
+    "Killabytez Hack is 24 hour long running hackathon will be held on November 20th & 21th ........",
   // keep LOGO_EFFECT to false 
   LOGO_EFFECT: false,
   // Your hackathon logo src

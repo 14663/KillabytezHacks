@@ -3,159 +3,150 @@
  * and import them like in the above and update src in TeamInfo
  * or you can provide a cloud link in src also
  */
-import boy from "./Assets/boy.png";
-import pass from "./Assets/sponsorsLogos/1pass.png";
-import ACF from "./Assets/sponsorsLogos/ACF.png";
-import cfc from "./Assets/sponsorsLogos/cfc.png";
-import echoAR from "./Assets/sponsorsLogos/echoAR.png";
-import egg from "./Assets/sponsorsLogos/egg.png";
-import glimpse from "./Assets/sponsorsLogos/glimpse.png";
-import interviewC from "./Assets/sponsorsLogos/interview-cake.jpg";
-import ll from "./Assets/sponsorsLogos/ll.png";
-import qoom from "./Assets/sponsorsLogos/qoom.svg";
-import Replit from "./Assets/sponsorsLogos/replit.png";
-import sublime from "./Assets/sponsorsLogos/sublime.png";
-import taskade from "./Assets/sponsorsLogos/taskade.png";
-import lyin from "./Assets/teami/lyin.jpg";
+import boy from './Assets/boy.png';
+import pass from './Assets/sponsorsLogos/1pass.png';
+import ACF from './Assets/sponsorsLogos/ACF.png';
+import cfc from './Assets/sponsorsLogos/cfc.png';
+import echoAR from './Assets/sponsorsLogos/echoAR.png';
+import egg from './Assets/sponsorsLogos/egg.png';
+import glimpse from './Assets/sponsorsLogos/glimpse.png';
+import interviewC from './Assets/sponsorsLogos/interview-cake.jpg';
+import ll from './Assets/sponsorsLogos/ll.png';
+import qoom from './Assets/sponsorsLogos/qoom.svg';
+import Replit from './Assets/sponsorsLogos/replit.png';
+import sublime from './Assets/sponsorsLogos/sublime.png';
+import taskade from './Assets/sponsorsLogos/taskade.png';
+import lyin from './Assets/teami/lyin.jpg';
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
  */
 // Importing all Team members images  from Assets
-import me from "./Assets/teami/me.png";
-import moon from "./Assets/teami/moon.png";
-import Ryah from "./Assets/teami/Ryah.jpg";
-import zoha from "./Assets/teami/zoha.png";
-
-
-
-
-
-
+import me from './Assets/teami/me.png';
+import moon from './Assets/teami/moon.png';
+import Ryah from './Assets/teami/Ryah.jpg';
+import zoha from './Assets/teami/zoha.png';
 
 const TOP_SECTION = {
-  TITLE: "Join Killabytez Hacks",
-  Typed_effect: ["Explore various fields for a four-week workshop program", "24 hours of creation", "Win awesome prizes"],
+  TITLE: 'Join Killabytez Hacks',
+  Typed_effect: [
+    'Explore various fields for a four-week workshop program',
+    '24 hours of creation',
+    'Win awesome prizes'
+  ],
   SHORT_DESCRIPTION:
-    "Join us starting July 11, 2022 with over 300 students from across the nation for a 4-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.",
+    'Join us starting July 11, 2022 with over 300 students from across the nation for a 4-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.',
   IMG_SRC: boy,
-  DISCORD_LINK: "",
-  JUDGES_FORM_LINK:
-    "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNVRQMUg4VllMRURDN1lON0haNFVCQUgySC4u",
-  HACKERS_REGISTRATION_FORM_LINK:
-    "https://forms.gle/vUdSfPfp1DNh8D3p8"
+  DISCORD_LINK: 'https://discord.gg/8vCXtABd',
+  JUDGES_FORM_LINK: 'https://forms.gle/s1Ts8BCNjYZ4mAPv6',
+  HACKERS_REGISTRATION_FORM_LINK: 'https://forms.gle/vUdSfPfp1DNh8D3p8'
 };
 
 const SOCIALS = {
-  instagram: "https://www.instagram.com/limbohacks/",
-  discord: "https://discord.com/invite/8XJSzmtWPp",
-  linkedin: "https://www.linkedin.com/company/limbo-hacks/",
-  twitter: "https://twitter.com/HacksLimbo",
-  devpost: "https://limbo-hacks-12968.devpost.com/",
-  email: "mailto:hello@limbohacks.tech",
-  mail: "hello@limbohacks.tech"
+  instagram: 'https://www.instagram.com/limbohacks/',
+  discord: 'https://discord.gg/8vCXtABd',
+  linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
+  devpost: 'https://limbo-hacks-12968.devpost.com/',
+  email: 'mailto:hello@limbohacks.tech',
+  mail: 'info@killabytez.club'
 };
 
 const MIDDLE_SECTION = {
-  TITLE: "What is Killabytez Hacks?",
+  TITLE: 'What is Killabytez Hacks?',
   LONG_DESCRIPTION:
-    "Following our four-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend hackers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.",
+    'Following our four-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend hackers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
   LOGO_EFFECT: true,
-  LOGO: ""
+  LOGO: ''
 };
 
 const FOOTER = {
   VOLUNTEERING_FORM: {
     required: true,
-    src: "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNFBQME44TzJZWDc2UFgwTUtLN0xDQVYyUi4u"
+    src: 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNFBQME44TzJZWDc2UFgwTUtLN0xDQVYyUi4u'
   },
   JOIN_TEAM: {
     required: true,
-    src: "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUOUhEQkJSRk02OEU4SlBMTUdYOFIxOTNZSy4u"
+    src: 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUOUhEQkJSRk02OEU4SlBMTUdYOFIxOTNZSy4u'
   },
   Privacy_policy: {
     required: true,
-    src: ""
+    src: ''
   },
   Terms_of_use: {
     required: true,
-    src: ""
+    src: ''
   }
 };
 
-
 /** SCHEDULE
- *  
+ *
  * INSTRUCTIONS
- * 
+ *
  * Date format : 8-11-2021, 18-11-2021 (without trailing zeros)
  */
 
 const calenderStartingDate = {
   month: 7,
   year: 2022
-}
+};
 
-
- const schedule = [
+const schedule = [
   {
-      "day": "8-11-2021",
-      "events": [
-          {
-              "title": "Intro to phycycology",
-              "timings": "12 AM - 1 Pm",
-               "link" : "https://google.com"
-          }
-      ]
-  },
-  {
-      "day": "5-12-2021",
-      "events": [
-          {
-              "title": "Intro to deep learning",
-              "timings": "12 AM - 1 Pm",
-              "link" : "https://google.com"
-          },
-          {
-              "title": "Intro to deep learning",
-              "timings": "12 AM - 1 Pm",
-              "link" : "https://google.com"
-          }
-      ]
-  },
-  {
-      "day": "3-12-2021",
-      "events": [
-          {
-              "title": "Intro to phycycology",
-              "timings": "12 AM - 1 Pm",
-              "link" : "https://google.com"
-          }
-      ]
-  },
-  {
-      "day": "1-12-2021",
-      "events": [
-          {
-              "title": "Intro to deep learning",
-              "timings": "12 AM - 1 Pm",
-              "link" : "https://google.com"
-          }
-      ]
-  },
-  {
-    "day": "1-1-2022",
-    "events": [
-        {
-            "title": "Intro to phycycology",
-            "timings": "12 AM - 1 Pm",
-             "link" : "https://google.com"
-        }
+    day: '8-11-2021',
+    events: [
+      {
+        title: 'Intro to phycycology',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      }
     ]
-},
-]
-
-
+  },
+  {
+    day: '5-12-2021',
+    events: [
+      {
+        title: 'Intro to deep learning',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      },
+      {
+        title: 'Intro to deep learning',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      }
+    ]
+  },
+  {
+    day: '3-12-2021',
+    events: [
+      {
+        title: 'Intro to phycycology',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      }
+    ]
+  },
+  {
+    day: '1-12-2021',
+    events: [
+      {
+        title: 'Intro to deep learning',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      }
+    ]
+  },
+  {
+    day: '1-1-2022',
+    events: [
+      {
+        title: 'Intro to phycycology',
+        timings: '12 AM - 1 Pm',
+        link: 'https://google.com'
+      }
+    ]
+  }
+];
 
 /** ICON
  *
@@ -174,53 +165,49 @@ const Prizeinfo = [
     //Array 1
     {
       icon: <i className="first fas fa-4x fa-trophy"></i>,
-      type: "overall First",
+      type: 'Overall First',
       content:
-        "First Overall prize will be given to a project that outstands all other submissions"
+        'First Overall prize will be given to a project that outstands all other submissions'
     },
     {
       icon: <i className=" second fas fa-4x fa-medal"></i>,
-      type: "overall Second",
+      type: 'Overall Second',
       content:
-        "Second Overall prize will be given to the second best project of the hackathon"
+        'Second Overall prize will be given to the second best project of the hackathon'
     },
     {
       icon: <i className=" third fas fa-4x fa-skiing-nordic"></i>,
-      type: "Third Second",
+      type: 'Overall Third',
       content:
-        "Best third overall project of the hackathon will win some awesome prizes"
+        'Best third overall project of the hackathon will win some awesome prizes'
     }
   ],
   [
     //Array 2
     {
       icon: <i className="fab fourth fa-3x fa-wpbeginner"></i>,
-      type: "Best Solo",
+      type: 'Best Solo',
       content:
-        "You project will qualify for this prize if you participate alone without a team though we encourage you to participate with a team"
+        'You project will qualify for this prize if you participate alone without a team though we encourage you to participate with a team'
     },
     {
       icon: <i className="first fas fa-4x fa-trophy"></i>,
-      type: " Best Beginner",
-      content: "Your project will qualify for this category if atleast 50% "
+      type: ' Best Beginner',
+      content:
+        'Your project will qualify for this category if you are a beginner in this field.'
     },
     {
       icon: <i className=" fifth fa-3x fas fa-book-open"></i>,
-      type: "Best UI/UX",
-      content: "Project with most creative designs will be UI/UX track"
+      type: 'Best UI/UX',
+      content: 'Project with most creative designs will be UI/UX track'
     }
   ],
   [
     //Array 3
     {
-      icon: <i className="fas fa-4x sixth fa-male"></i>,
-      type: "Best Web App with Qoom",
-      content: "Must use qoom in your project to win this category"
-    },
-    {
       icon: <i className="fas fa-user-friends seventh fa-3x "></i>,
-      type: "More prizes",
-      content: "More prizes will be revealed later"
+      type: 'More prizes',
+      content: 'More prizes will be revealed later'
     }
   ]
 ];
@@ -235,90 +222,96 @@ const TeamInfo = [
   [
     //Array 1
     {
-      Name: "Rehan",
-      role: "Organizer",
-      github: "https://github.com/Limbo-Hacks/Hackathon-website-template",
-      linkedin: "",
+      Name: 'Brian Cisto',
+      role: 'Brian Cisto',
+      github: 'https://github.com/bcbro',
+      linkedin: '',
       img: me
     },
     {
-      Name: "Moon",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Shashank Shriram',
+      role: 'Shashank Shriram',
+      github: '',
+      linkedin: '',
       img: moon
     },
     {
-      Name: "Erika",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Shashank Karthik Rajan',
+      role: 'Shashank Karthik Rajan',
+      github: '',
+      linkedin: '',
       img: Ryah
     }
   ],
   [
     //Array 2
     {
-      Name: "Lyanola",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Mohit Tamboli',
+      role: 'Mohit Tamboli',
+      github: '',
+      linkedin: '',
       img: lyin
     },
     {
-      Name: "Zoheb",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Arnav Arora',
+      role: 'Arnav Arora',
+      github: '',
+      linkedin: '',
       img: zoha
-    },    
-  ] 
+    },
+    {
+      Name: 'Allen Cisto',
+      role: 'Allen Cisto',
+      github: '',
+      linkedin: '',
+      img: zoha
+    }
+  ]
 ];
 
 const JudgesInfo = [
   [
     //Array 1
     {
-      Name: "Rehan",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Brian Cisto',
+      role: 'Brian Cisto',
+      github: 'https://www.github.com/bcbro',
+      linkedin: '',
       img: me
     },
     {
-      Name: "Moon",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Mohit Tamboli',
+      role: 'Mohit Tamboli',
+      github: '',
+      linkedin: '',
       img: moon
     },
     {
-      Name: "Ryah Garcia",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Shashank Shriram',
+      role: 'Shashank Shriram',
+      github: '',
+      linkedin: '',
       img: Ryah
     }
   ],
   [
     //Array 2
     {
-      Name: "Lyanola",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Shashank Karthik Rajan',
+      role: 'Shashank Karthik Rajan',
+      github: '',
+      linkedin: '',
       img: lyin
     },
     {
-      Name: "Zoheb",
-      role: "Organizer",
-      github: "",
-      linkedin: "",
+      Name: 'Arnav Arora',
+      role: 'Arnav Arora',
+      github: '',
+      linkedin: '',
       img: zoha
-    },    
-  ] 
+    }
+  ]
 ];
-
 
 /** Instructions
  * Only put 3 logos per array inside `sponsorLogos`, you can
@@ -327,57 +320,62 @@ const JudgesInfo = [
  */
 
 const sponsorLogos = [
-  [{src: cfc}, {src: sublime}, {src: echoAR}], //Array 1
-  [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
-  [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
-  [{src: egg}, {src: ll}, {src: ACF}] //Array 4
+  // [{src: cfc}, {src: sublime}, {src: echoAR}], //Array 1
+  // [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
+  // [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
+  // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
+  []
 ];
 
 /** Instructions
  * Follow the strcuture provided below to add as many as FAQ's you want
  */
-const frequentlyAskedQuestions  = [
+const frequentlyAskedQuestions = [
   [
     [
       {
-        label: "What is a hackathon?",
+        label: 'What is a hackathon?',
         content:
-        'A hackathon is a 24 hour event where "hackers" all over the globe will collaborate on creating a functioning software and hardware by the end of the event.'      },
-      {
-        label: "Who can attend?",
-        content: "Limbo Hacks is open to all undergraduate, high school students and middle school students from all schools."
+          'A hackathon is a 24 hour event where "hackers" all over the globe will collaborate on creating a functioning software and hardware by the end of the event.'
       },
       {
-        label: "I am a first time hacker, what should I do?",
-        content: "No worries, we love to welcome first time hackers and start their hacking journey from a hackathon. We have some awesome workshops and events which will help you get started with hackathon and hacking in general."
+        label: 'Who can attend?',
+        content:
+          'Killabytez Hacks is open to all undergraduate, high school students and middle school students from all schools.'
       },
       {
-        label: "How team formation works?",
-        content: "You can form team with 4 members in it at maximum. If you don't have a team, there'll be plenty of opportunities for you to meet hackers and form a team!"
+        label: 'I am a first time hacker. What should I do?',
+        content:
+          'No worries, we love to welcome first time hackers and start their hacking journey from a hackathon. We have some awesome workshops and events which will help you get started with hackathon and hacking in general.'
+      },
+      {
+        label: 'How does team formation works?',
+        content:
+          "You can form team with 4 members in it at maximum. If you don't have a team, there'll be plenty of opportunities for you to meet hackers and form a team!"
       }
     ],
     [
       {
-        label: "How to register myself in the hackathon?",
-        content: "All you need is to fill our form above and join Discord, we will guide you through everything there"
+        label: 'How do I register myself in the hackathon?',
+        content:
+          'All you need is to fill our form above and join the Discord. Feel free to reach out to any of the organizers. We will guide you through everything you need to do to get started.'
       },
       {
-        label: "I have more questions?",
-        content: "Reach us directly at (rehan@limbohacks.tech or hello@limbohacks.tech) we would happy to help you."
-      }
-      ,
+        label: 'Can I volunteer?',
+        content:
+          'Yes, we are actively looking for volunteers. Fill the form (in footer section) we will be glad to have you.'
+      },
       {
-        label: "Can i volunteer?",
-        content: "Yes we are actively looking for volunteers, fill the form (in footer section) we will be glad to have you."
-      }
-      ,
+        label: 'Will there be swag?',
+        content: 'Yes! All participants will receive Killabytez Hacks swag!.'
+      },
       {
-        label: "Will there be swag?",
-        content: "Yes! Participants will recieveing Limbo Hacks swag!."
+        label: 'I have more questions?',
+        content:
+          'Reach us directly at brian@killabytez.club or info@killabytez.club. We would happy to help you.'
       }
     ]
-  ],
-
+  ]
 ];
 
 export {
