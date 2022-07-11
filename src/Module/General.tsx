@@ -30,7 +30,7 @@ import zoha from './Assets/teami/zoha.png';
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
   Typed_effect: [
-    'Explore various fields for a three-week workshop program',
+    'Explore various fields in a three-week workshop program',
     '24 hours of creation',
     'Win awesome prizes'
   ],
@@ -43,7 +43,7 @@ const TOP_SECTION = {
 };
 
 const SOCIALS = {
-  instagram: 'https://www.instagram.com/limbohacks/',
+  instagram: '',
   discord: 'https://discord.gg/8vCXtABd',
   linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
   devpost: 'https://killabytez-hacks.devpost.com/',
@@ -54,7 +54,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: 'What is Killabytez Hacks?',
   LONG_DESCRIPTION:
-    'Following our four-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend hackers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
+    'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend hackers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
   LOGO_EFFECT: true,
   LOGO: ''
 };
@@ -243,6 +243,10 @@ const Prizeinfo = [
       icon: <i className="fas fa-user-friends seventh fa-3x "></i>,
       type: 'More prizes',
       content: 'More prizes will be revealed later\n'
+    },
+    {
+    },
+    {
     }
   ]
 ];
@@ -379,6 +383,11 @@ const frequentlyAskedQuestions = [
           'Killabytez Hacks is open to all undergraduate, high school students and middle school students from all schools.'
       },
       {
+        label: 'How can I join the classes?',
+        content:
+          'At the calendar at the top of the page, you will see dates with red dots below them. Click on those to reveal the classes that are available for you to join. You can join the classes by clicking on the "Join Classes" button beside the class listings for that day.'
+      },
+      {
         label: 'I am a first time hacker. What should I do?',
         content:
           'No worries, we love to welcome first time hackers and start their hacking journey from a hackathon. We have some awesome workshops and events which will help you get started with hackathon and hacking in general.'
@@ -391,9 +400,9 @@ const frequentlyAskedQuestions = [
     ],
     [
       {
-        label: 'How do I register myself in the hackathon?',
+        label: 'How do I register?',
         content:
-          'All you need is to fill our form above and join the Discord. Feel free to reach out to any of the organizers. We will guide you through everything you need to do to get started.'
+          'All you need is to fill our form above, sign up on DevPost (link included in the Google Form), and join the Discord. Feel free to reach out to any of the organizers. We will guide you through everything you need to do to get started.'
       },
       {
         label: 'Can I volunteer?',
