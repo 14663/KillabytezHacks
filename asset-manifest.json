@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KillabytezHacks/static/css/main.9c25d60e.chunk.css",
-    "main.js": "/KillabytezHacks/static/js/main.d563cc6c.chunk.js",
-    "main.js.map": "/KillabytezHacks/static/js/main.d563cc6c.chunk.js.map",
+    "main.js": "/KillabytezHacks/static/js/main.d950fb3f.chunk.js",
+    "main.js.map": "/KillabytezHacks/static/js/main.d950fb3f.chunk.js.map",
     "runtime-main.js": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js",
     "runtime-main.js.map": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js.map",
     "static/js/2.3ea346bc.chunk.js": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/icons8-mail.650ff70b.svg": "/KillabytezHacks/static/media/icons8-mail.650ff70b.svg",
     "static/media/icons8-twitter.0521e950.svg": "/KillabytezHacks/static/media/icons8-twitter.0521e950.svg",
     "static/media/loader.ed450620.gif": "/KillabytezHacks/static/media/loader.ed450620.gif",
+    "static/media/logo.1ffc5d1b.png": "/KillabytezHacks/static/media/logo.1ffc5d1b.png",
     "static/media/logo2.a50d47d5.png": "/KillabytezHacks/static/media/logo2.a50d47d5.png",
     "static/media/logo3.6f1264e7.png": "/KillabytezHacks/static/media/logo3.6f1264e7.png",
     "static/media/logo4.94d53c6e.png": "/KillabytezHacks/static/media/logo4.94d53c6e.png",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.4ab6e787.js",
     "static/js/2.3ea346bc.chunk.js",
     "static/css/main.9c25d60e.chunk.css",
-    "static/js/main.d563cc6c.chunk.js"
+    "static/js/main.d950fb3f.chunk.js"
   ]
 }
