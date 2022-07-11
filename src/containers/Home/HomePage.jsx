@@ -152,7 +152,7 @@ export default function HomePage() {
         <h1 id="team">Our Team</h1>
         {FOOTER.JOIN_TEAM.required && (
           <JoinTeam
-            placeholder="Join our team"
+            placeholder="Join the team!"
             formLink={FOOTER.JOIN_TEAM}
             content="Interested in joining our team"
           />
@@ -165,7 +165,7 @@ export default function HomePage() {
         <h1 id="team">Judges</h1>
         {FOOTER.JOIN_TEAM.required && (
           <JoinTeam
-            placeholder="Join our team"
+            placeholder="Become a judge"
             formLink={TOP_SECTION.JUDGES_FORM_LINK}
             content="Interested in being judge"
           />

@@ -86,7 +86,11 @@ export default function Footer() {
           </a>
           {FOOTER.VOLUNTEERING_FORM.required && (
             <a href={FOOTER.VOLUNTEERING_FORM.src}>
-              <Btn type="Volunteer Registration" class="Volunteer" overlay="Join the team!" />
+              <Btn
+                type="Volunteer Registration"
+                class="Volunteer"
+                overlay="Join the team!"
+              />
             </a>
           )}
         </div>
