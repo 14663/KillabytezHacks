@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KillabytezHacks/static/css/main.9ac21eb1.chunk.css",
-    "main.js": "/KillabytezHacks/static/js/main.c59ccead.chunk.js",
-    "main.js.map": "/KillabytezHacks/static/js/main.c59ccead.chunk.js.map",
+    "main.js": "/KillabytezHacks/static/js/main.3057bce8.chunk.js",
+    "main.js.map": "/KillabytezHacks/static/js/main.3057bce8.chunk.js.map",
     "runtime-main.js": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js",
     "runtime-main.js.map": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js.map",
     "static/js/2.3ea346bc.chunk.js": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.4ab6e787.js",
     "static/js/2.3ea346bc.chunk.js",
     "static/css/main.9ac21eb1.chunk.css",
-    "static/js/main.c59ccead.chunk.js"
+    "static/js/main.3057bce8.chunk.js"
   ]
 }
