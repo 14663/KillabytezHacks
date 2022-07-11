@@ -108,7 +108,7 @@ const schedule = [
         title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
-      },
+      }
     ]
   },
   {
@@ -138,7 +138,7 @@ const schedule = [
         title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
-      },
+      }
     ]
   },
   {
@@ -168,7 +168,7 @@ const schedule = [
         title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
-      },
+      }
     ]
   },
   {
@@ -180,7 +180,7 @@ const schedule = [
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
     ]
-  },
+  }
 ];
 
 /** ICON
@@ -402,7 +402,8 @@ const frequentlyAskedQuestions = [
       },
       {
         label: 'Will there be swag?',
-        content: 'Yes! All participants will receive Killabytez Hacks swag! Coming soon.'
+        content:
+          'Yes! All participants will receive Killabytez Hacks swag! Coming soon.'
       },
       {
         label: 'I have more questions?',

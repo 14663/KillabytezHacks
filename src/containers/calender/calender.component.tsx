@@ -77,7 +77,7 @@ export const Calender = ({data}: any) => {
                 <h3>{event.title}</h3>
                 <p>{event.timings}</p>
               </div>
-              <button>Add to calender</button>
+              <button>Join Zoom Meeting</button>
             </H.Event>
           ))}
         </H.EventContainer>
