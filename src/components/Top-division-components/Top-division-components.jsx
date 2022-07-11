@@ -35,14 +35,14 @@ function Myinfo() {
             ico="fab fa-2x fa-discord"
             class="join_disco"
             type="Join our discord"
-            overlay="Click the link"
+            overlay="Join the discord!"
           />
         </a>
       </div>
       <div className="buttom-group">
         <a href={TOP_SECTION.JUDGES_FORM_LINK}>
           {' '}
-          <Btn class="sponsor_btn" type="Judges" overlay="Fill the form" />
+          <Btn class="sponsor_btn" type="Judges" overlay="Join the team!" />
         </a>
 
         <a href={TOP_SECTION.HACKERS_REGISTRATION_FORM_LINK}>
@@ -50,7 +50,7 @@ function Myinfo() {
           <Btn
             class="register"
             type="Register "
-            overlay="Hackers registration"
+            overlay="Register!"
           />
         </a>
       </div>

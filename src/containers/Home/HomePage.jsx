@@ -137,11 +137,6 @@ export default function HomePage() {
         </Row>
         {/* ********Prizes ending here ***** */}
 
-        <Row className="prizesection non-coding">
-          <PrizeHeading type="Non-coding prizes" />
-          <h2>coming soon</h2>
-        </Row>
-
         {/* ********Sponsors here ***** */}
 
         <Row className="sponsorSection" id="sponsors">

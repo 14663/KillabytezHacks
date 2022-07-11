@@ -54,7 +54,7 @@ const SOCIALS = {
 const MIDDLE_SECTION = {
   TITLE: 'What is Killabytez Hacks?',
   LONG_DESCRIPTION:
-    'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend hackers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
+    'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend, hackers and designers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
   LOGO_EFFECT: true,
   LOGO: ''
 };
@@ -202,7 +202,7 @@ const Prizeinfo = [
       icon: <i className="first fas fa-4x fa-trophy"></i>,
       type: 'Overall First',
       content:
-        'First Overall prize will be given to a project that outstands all other submissions'
+        'First Overall prize will be given to a project that outshines all other submissions'
     },
     {
       icon: <i className=" second fas fa-4x fa-medal"></i>,
@@ -221,6 +221,27 @@ const Prizeinfo = [
     //Array 2
     {
       icon: <i className="fab fourth fa-3x fa-wpbeginner"></i>,
+      type: 'Best Programming Project',
+      content:
+        'You project will qualify for this prize if you submit a programming project.'
+    },
+    {
+      icon: <i className="first fas fa-4x fa-trophy"></i>,
+      type: 'Best Design',
+      content:
+        'Your project will qualify for this category if you submit your project as a CAD model.'
+    },
+    {
+      icon: <i className="first fas fa-4x fa-trophy"></i>,
+      type: 'Best Hardware Project',
+      content:
+        'Your project will qualify for this category if you submit your project as a hardware mechanism.'
+    }
+  ],
+  [
+    //Array 3
+    {
+      icon: <i className="fab fourth fa-3x fa-wpbeginner"></i>,
       type: 'Best Solo',
       content:
         'You project will qualify for this prize if you participate alone without a team though we encourage you to participate with a team'
@@ -232,21 +253,9 @@ const Prizeinfo = [
         'Your project will qualify for this category if you are a beginner in this field.'
     },
     {
-      icon: <i className=" fifth fa-3x fas fa-book-open"></i>,
-      type: 'Best UI/UX',
-      content: 'Project with most creative designs will be UI/UX track'
-    }
-  ],
-  [
-    //Array 3
-    {
       icon: <i className="fas fa-user-friends seventh fa-3x "></i>,
       type: 'More prizes',
       content: 'More prizes will be revealed later\n'
-    },
-    {
-    },
-    {
     }
   ]
 ];
@@ -301,8 +310,8 @@ const TeamInfo = [
     {
       Name: 'Allen Cisto',
       role: 'Allen Cisto',
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/allencisto',
+      linkedin: 'https://www.linkedin.com/in/allen-cisto-54a679233/',
       img: zoha
     }
   ]
@@ -407,7 +416,7 @@ const frequentlyAskedQuestions = [
       {
         label: 'Can I volunteer?',
         content:
-          'Yes, we are actively looking for volunteers. Fill the form (in footer section) we will be glad to have you.'
+          'Yes, we are actively looking for volunteers. Fill out the form (in footer section). We would be glad to have you.'
       },
       {
         label: 'Will there be swag?',
