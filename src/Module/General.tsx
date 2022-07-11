@@ -57,7 +57,7 @@ const MIDDLE_SECTION = {
   LONG_DESCRIPTION:
     'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers. Throughout the weekend, hackers and designers at Killabytez Hacks will have unique opportunities to learn from each other trying hands in new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
   LOGO_EFFECT: true,
-  LOGO: logo
+  LOGO: 'https://killabytez.club/Images/killabytezlogo.png'
 };
 
 const FOOTER = {
