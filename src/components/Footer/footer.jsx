@@ -82,11 +82,11 @@ export default function Footer() {
         </div>
         <div className="Register_a">
           <a href={TOP_SECTION.HACKERS_REGISTRATION_FORM_LINK}>
-            <Btn type="Register" overlay="Fill the form" />
+            <Btn type="Hackathon Registration" overlay="Register!" />
           </a>
           {FOOTER.VOLUNTEERING_FORM.required && (
             <a href={FOOTER.VOLUNTEERING_FORM.src}>
-              <Btn type="Volunteer" class="Volunteer" overlay="Fill the form" />
+              <Btn type="Volunteer Registration" class="Volunteer" overlay="Join the team!" />
             </a>
           )}
         </div>
