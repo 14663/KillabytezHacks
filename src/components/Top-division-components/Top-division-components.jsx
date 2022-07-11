@@ -44,7 +44,7 @@ function Myinfo() {
           {' '}
           <Btn
             class="sponsor_btn"
-            type="Judge Registration"
+            type="Judging Registration"
             overlay="Join the team!"
           />
         </a>
@@ -53,7 +53,8 @@ function Myinfo() {
           {' '}
           <Btn
             class="register"
-            type="Hackathon Registration"
+            style="span:"
+            type="Hackathon/Workshop Registration"
             overlay="Register!"
           />
         </a>

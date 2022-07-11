@@ -444,5 +444,5 @@ export {
   frequentlyAskedQuestions,
   sponsorLogos,
   schedule,
-  calenderStartingDate,
+  calenderStartingDate
 };
