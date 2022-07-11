@@ -47,11 +47,7 @@ function Myinfo() {
 
         <a href={TOP_SECTION.HACKERS_REGISTRATION_FORM_LINK}>
           {' '}
-          <Btn
-            class="register"
-            type="Register "
-            overlay="Register!"
-          />
+          <Btn class="register" type="Hackathon Registration" overlay="Register!" />
         </a>
       </div>
     </div>
