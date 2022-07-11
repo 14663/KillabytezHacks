@@ -30,7 +30,7 @@ import zoha from './Assets/teami/zoha.png';
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
   Typed_effect: [
-    'Explore various fields for a four-week workshop program',
+    'Explore various fields for a three-week workshop program',
     '24 hours of creation',
     'Win awesome prizes'
   ],
