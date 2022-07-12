@@ -335,7 +335,7 @@ const JudgesInfo = [
       role: 'Mohit Tamboli',
       github: 'https://github.com/mohito1',
       linkedin: '',
-      img:  mohit
+      img: mohit
     },
     {
       Name: 'Shashank Shriram',
