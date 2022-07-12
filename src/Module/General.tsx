@@ -24,9 +24,11 @@ import lyin from './Assets/teami/lyin.jpg';
  */
 // Importing all Team members images  from Assets
 import me from './Assets/teami/me.png';
-import moon from './Assets/teami/moon.png';
-import Ryah from './Assets/teami/Ryah.jpg';
-import zoha from './Assets/teami/zoha.png';
+import allen from './Assets/teamImages/allen.png';
+import mohit from './Assets/teamImages/mohit.png';
+import shashanks from './Assets/teamImages/shashanks.jpg';
+import shashankr from './Assets/teamImages/shashankr.png';
+import arnav from './Assets/teamImages/arnav.jpeg';
 
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
@@ -274,22 +276,22 @@ const TeamInfo = [
       Name: 'Brian Cisto',
       role: 'Brian Cisto',
       github: 'https://github.com/bcbro',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/brian-cisto-b36850217/',
       img: me
     },
     {
       Name: 'Shashank Shriram',
       role: 'Shashank Shriram',
-      github: '',
-      linkedin: '',
-      img: moon
+      github: 'https://github.com/shashankshriram123',
+      linkedin: 'https://www.linkedin.com/in/shashank-shriram-939745242',
+      img: shashanks
     },
     {
       Name: 'Shashank Karthik Rajan',
       role: 'Shashank Karthik Rajan',
-      github: '',
-      linkedin: '',
-      img: Ryah
+      github: 'https://github.com/SKR1205',
+      linkedin: 'https://www.linkedin.com/in/shashank-karthik-rajan-59ab0220b',
+      img: shashankr
     }
   ],
   [
@@ -297,23 +299,23 @@ const TeamInfo = [
     {
       Name: 'Mohit Tamboli',
       role: 'Mohit Tamboli',
-      github: '',
+      github: 'https://github.com/mohito1',
       linkedin: '',
-      img: lyin
+      img: mohit
     },
     {
       Name: 'Arnav Arora',
       role: 'Arnav Arora',
-      github: '',
-      linkedin: '',
-      img: zoha
+      github: 'https://github.com/ArnArora',
+      linkedin: 'https://www.linkedin.com/in/arnav-arora-8762171b4/',
+      img: arnav
     },
     {
       Name: 'Allen Cisto',
       role: 'Allen Cisto',
       github: 'https://github.com/allencisto',
       linkedin: 'https://www.linkedin.com/in/allen-cisto-54a679233/',
-      img: zoha
+      img: allen
     }
   ]
 ];
@@ -325,22 +327,22 @@ const JudgesInfo = [
       Name: 'Brian Cisto',
       role: 'Brian Cisto',
       github: 'https://www.github.com/bcbro',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/brian-cisto-b36850217/',
       img: me
     },
     {
       Name: 'Mohit Tamboli',
       role: 'Mohit Tamboli',
-      github: '',
+      github: 'https://github.com/mohito1',
       linkedin: '',
-      img: moon
+      img:  mohit
     },
     {
       Name: 'Shashank Shriram',
       role: 'Shashank Shriram',
-      github: '',
-      linkedin: '',
-      img: Ryah
+      github: 'https://github.com/shashankshriram123',
+      linkedin: 'https://www.linkedin.com/in/shashank-shriram-939745242',
+      img: shashanks
     }
   ],
   [
@@ -348,23 +350,23 @@ const JudgesInfo = [
     {
       Name: 'Shashank Karthik Rajan',
       role: 'Shashank Karthik Rajan',
-      github: '',
-      linkedin: '',
-      img: lyin
+      github: 'https://github.com/SKR1205',
+      linkedin: 'https://www.linkedin.com/in/shashank-karthik-rajan-59ab0220b',
+      img: shashankr
     },
     {
       Name: 'Arnav Arora',
       role: 'Arnav Arora',
-      github: '',
-      linkedin: '',
-      img: zoha
+      github: 'https://github.com/ArnArora',
+      linkedin: 'https://www.linkedin.com/in/arnav-arora-8762171b4/',
+      img: arnav
     },
     {
       Name: 'Allen Cisto',
       role: 'Allen Cisto',
       github: 'https://github.com/allencisto',
       linkedin: 'https://www.linkedin.com/in/allen-cisto-54a679233/',
-      img: zoha
+      img: allen
     }
   ]
 ];
