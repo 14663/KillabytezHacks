@@ -24,11 +24,11 @@ import lyin from './Assets/teami/lyin.jpg';
  */
 // Importing all Team members images  from Assets
 import me from './Assets/teami/me.png';
-import allen from './Assets/teamImages/allen.png';
-import mohit from './Assets/teamImages/mohit.png';
-import shashanks from './Assets/teamImages/shashanks.jpg';
-import shashankr from './Assets/teamImages/shashankr.png';
-import arnav from './Assets/teamImages/arnav.jpeg';
+import allen from './Assets/teami/allen.png';
+import mohit from './Assets/teami/mohit.png';
+import shashanks from './Assets/teami/shashanks.jpg';
+import shashankr from './Assets/teami/shashankr.png';
+import arnav from './Assets/teami/arnav.jpeg';
 
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
