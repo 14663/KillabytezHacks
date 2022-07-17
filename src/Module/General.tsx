@@ -26,9 +26,12 @@ import lyin from './Assets/teami/lyin.jpg';
 import me from './Assets/teami/me.png';
 import allen from './Assets/teami/allen.png';
 import mohit from './Assets/teami/mohit.png';
-import shashanks from './Assets/teami/shashanks2.jpeg';
-import shashankr from './Assets/teami/shashankr.png';
+import shashanks from './Assets/teami/shashanks.jpeg';
+import shashankr from './Assets/teami/shashankr2.png';
 import arnav from './Assets/teami/arnav.jpeg';
+
+// Importing all Judges images from Assets
+import maksim from './Assets/judges/maksim.png';
 
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
@@ -326,6 +329,13 @@ const JudgesInfo = [
   [
     //Array 1
     {
+      Name: 'Maksim Kuznetsov',
+      role: 'Maksim Kuznetsov',
+      github: 'https://www.github.com/bcbro',
+      linkedin: 'https://www.linkedin.com/in/brian-cisto-b36850217/',
+      img: maksim
+    },
+    {
       Name: 'Brian Cisto',
       role: 'Brian Cisto',
       github: 'https://www.github.com/bcbro',
@@ -338,17 +348,17 @@ const JudgesInfo = [
       github: 'https://github.com/mohito1',
       linkedin: '',
       img: mohit
-    },
+    }
+  ],
+  [
+    //Array 2
     {
       Name: 'Shashank Shriram',
       role: 'Shashank Shriram',
       github: 'https://github.com/shashankshriram123',
       linkedin: 'https://www.linkedin.com/in/shashank-shriram-939745242',
       img: shashanks
-    }
-  ],
-  [
-    //Array 2
+    },
     {
       Name: 'Shashank Karthik Rajan',
       role: 'Shashank Karthik Rajan',
@@ -362,7 +372,10 @@ const JudgesInfo = [
       github: 'https://github.com/ArnArora',
       linkedin: 'https://www.linkedin.com/in/arnav-arora-8762171b4/',
       img: arnav
-    },
+    }
+  ],
+  [
+    //Array 3
     {
       Name: 'Allen Cisto',
       role: 'Allen Cisto',
