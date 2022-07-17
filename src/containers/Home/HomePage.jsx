@@ -158,7 +158,7 @@ export default function HomePage() {
           <JoinTeam
             placeholder="Become a judge"
             formLink={TOP_SECTION.JUDGES_FORM_LINK}
-            content="Interested in being judge"
+            content="Interested in becoming a judge"
           />
         )}
         {JudgesInfo.map(TeamMembers)}
