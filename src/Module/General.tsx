@@ -58,6 +58,8 @@ const MIDDLE_SECTION = {
   TITLE: 'What is Killabytez Hacks?',
   LONG_DESCRIPTION:
     'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to participate and win awesome prizes and collaborate with other developers. Throughout the weekend, hackers and designers at Killabytez Hacks will have unique opportunities to learn from each other and try new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
+  HOSTED_BY: 'Hosted by Killabytez Robotics',
+  YOUTUBE_LINK: "https://www.youtube.com/embed/1s4z5jugPi4",
   LOGO_EFFECT: true,
   LOGO: 'https://killabytez.club/Images/killabytezlogo.png'
 };

@@ -13,6 +13,8 @@ function LogoSectionAbout() {
     <div className="LogoSectionAbout">
       <h1>{MIDDLE_SECTION.TITLE}</h1>
       <p>{MIDDLE_SECTION.LONG_DESCRIPTION}</p>
+      <h2>{MIDDLE_SECTION.HOSTED_BY}</h2>
+      <iframe width="560" height="315" src={MIDDLE_SECTION.YOUTUBE_LINK} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   );
 }
