@@ -31,7 +31,7 @@ import shashankr from './Assets/teami/shashankr2.jpeg';
 import arnav from './Assets/teami/arnav.jpeg';
 
 // Importing all Judges images from Assets
-import maksim from './Assets/judges/maksim.png';
+import maksim from './Assets/judges/maksim.jpg';
 
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
