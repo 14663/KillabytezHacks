@@ -136,7 +136,7 @@ const TOP_SECTION = {
   // Typing effect
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   SHORT_DESCRIPTION:
-    "Join us on 20th November 2021 with over 300 students from across the nation for 24 hours of creation, innovation, & fun.",
+    "Join us starting July 18, 2022 with over 300 students from across the nation for a 3-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.",
   // This image will be used for top section right side image
   IMG_SRC:boy ,
   DISCORD_LINK: "",
