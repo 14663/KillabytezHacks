@@ -26,8 +26,8 @@ import lyin from './Assets/teami/lyin.jpg';
 import me from './Assets/teami/me.png';
 import allen from './Assets/teami/allen.png';
 import mohit from './Assets/teami/mohit.png';
-import shashanks from './Assets/teami/shashanks.jpeg';
-import shashankr from './Assets/teami/shashankr2.png';
+import shashanks from './Assets/teami/shashanks.png';
+import shashankr from './Assets/teami/shashankr2.jpeg';
 import arnav from './Assets/teami/arnav.jpeg';
 
 // Importing all Judges images from Assets
