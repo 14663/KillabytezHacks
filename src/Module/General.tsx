@@ -26,7 +26,7 @@ import lyin from './Assets/teami/lyin.jpg';
 import me from './Assets/teami/me.png';
 import allen from './Assets/teami/allen.png';
 import mohit from './Assets/teami/mohit.png';
-import shashanks from './Assets/teami/shashanks.png';
+import shashanks from './Assets/teami/shashanks2.png';
 import shashankr from './Assets/teami/shashankr.png';
 import arnav from './Assets/teami/arnav.jpeg';
 
@@ -59,7 +59,7 @@ const MIDDLE_SECTION = {
   LONG_DESCRIPTION:
     'Following our three-week program of workshops, Killabytez Hacks will be held on August 6th & 7th for a 24 hour virtual hackathon. We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to participate and win awesome prizes and collaborate with other developers. Throughout the weekend, hackers and designers at Killabytez Hacks will have unique opportunities to learn from each other and try new technologies. We are determined to have an all-inclusive and diverse group of students attending.',
   HOSTED_BY: 'Hosted by Killabytez Robotics',
-  YOUTUBE_LINK: "https://www.youtube.com/embed/1s4z5jugPi4",
+  YOUTUBE_LINK: 'https://www.youtube.com/embed/1s4z5jugPi4',
   LOGO_EFFECT: true,
   LOGO: 'https://killabytez.club/Images/killabytezlogo.png'
 };
