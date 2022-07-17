@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KillabytezHacks/static/css/main.813fef9b.chunk.css",
-    "main.js": "/KillabytezHacks/static/js/main.b285d94d.chunk.js",
-    "main.js.map": "/KillabytezHacks/static/js/main.b285d94d.chunk.js.map",
+    "main.js": "/KillabytezHacks/static/js/main.625c038a.chunk.js",
+    "main.js.map": "/KillabytezHacks/static/js/main.625c038a.chunk.js.map",
     "runtime-main.js": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js",
     "runtime-main.js.map": "/KillabytezHacks/static/js/runtime-main.4ab6e787.js.map",
     "static/js/2.3ea346bc.chunk.js": "/KillabytezHacks/static/js/2.3ea346bc.chunk.js",
@@ -32,13 +32,12 @@
     "static/media/me.89173a72.png": "/KillabytezHacks/static/media/me.89173a72.png",
     "static/media/mohit.1d227061.png": "/KillabytezHacks/static/media/mohit.1d227061.png",
     "static/media/pattern4.d7089884.png": "/KillabytezHacks/static/media/pattern4.d7089884.png",
-    "static/media/shashankr.870a49ed.png": "/KillabytezHacks/static/media/shashankr.870a49ed.png",
-    "static/media/shashanks2.94bb5ea1.jpeg": "/KillabytezHacks/static/media/shashanks2.94bb5ea1.jpeg"
+    "static/media/shashankr.870a49ed.png": "/KillabytezHacks/static/media/shashankr.870a49ed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4ab6e787.js",
     "static/js/2.3ea346bc.chunk.js",
     "static/css/main.813fef9b.chunk.css",
-    "static/js/main.b285d94d.chunk.js"
+    "static/js/main.625c038a.chunk.js"
   ]
 }
