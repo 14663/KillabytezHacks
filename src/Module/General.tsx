@@ -113,7 +113,7 @@ const schedule = [
     day: '20-7-2022',
     events: [
       {
-        title: 'Intro to Programming in Java',
+        title: 'Intro to Hardware',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
@@ -123,7 +123,7 @@ const schedule = [
     day: '22-7-2022',
     events: [
       {
-        title: 'Intro to Hardware',
+        title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
@@ -143,7 +143,7 @@ const schedule = [
     day: '27-7-2022',
     events: [
       {
-        title: 'Intro to Programming in Java',
+        title: 'Intro to Hardware',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
@@ -153,7 +153,7 @@ const schedule = [
     day: '29-7-2022',
     events: [
       {
-        title: 'Intro to Hardware',
+        title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
@@ -173,7 +173,7 @@ const schedule = [
     day: '3-8-2022',
     events: [
       {
-        title: 'Intro to Programming in Java',
+        title: 'Intro to Hardware',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
@@ -183,7 +183,7 @@ const schedule = [
     day: '5-8-2022',
     events: [
       {
-        title: 'Intro to Hardware',
+        title: 'Intro to Programming in Java',
         timings: '6 PM - 7 PM',
         link: 'https://zoom.us/j/3381689362?pwd=UmNFVW52bjN5amNzSUJtd0hnSGpRUT09'
       }
