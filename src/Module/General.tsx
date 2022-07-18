@@ -43,14 +43,14 @@ const TOP_SECTION = {
   SHORT_DESCRIPTION:
     'Join us starting July 18, 2022 with over 300 students from across the nation for a 3-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.',
   IMG_SRC: boy,
-  DISCORD_LINK: 'https://discord.gg/8vCXtABd',
+  DISCORD_LINK: 'https://discord.gg/zR34N8NX8t',
   JUDGES_FORM_LINK: 'https://forms.gle/s1Ts8BCNjYZ4mAPv6',
   HACKERS_REGISTRATION_FORM_LINK: 'https://forms.gle/vUdSfPfp1DNh8D3p8'
 };
 
 const SOCIALS = {
   instagram: '',
-  discord: 'https://discord.gg/8vCXtABd',
+  discord: 'https://discord.gg/zR34N8NX8t',
   linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
   devpost: 'https://killabytez-hacks.devpost.com/',
   email: 'mailto:info@killabytez.club',
