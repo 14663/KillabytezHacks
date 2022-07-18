@@ -4,20 +4,7 @@
  * or you can provide a cloud link in src also
  */
 import boy from './Assets/boy.png';
-import logo from './Assets/logo.png';
-import pass from './Assets/sponsorsLogos/1pass.png';
-import ACF from './Assets/sponsorsLogos/ACF.png';
-import cfc from './Assets/sponsorsLogos/cfc.png';
-import echoAR from './Assets/sponsorsLogos/echoAR.png';
-import egg from './Assets/sponsorsLogos/egg.png';
-import glimpse from './Assets/sponsorsLogos/glimpse.png';
-import interviewC from './Assets/sponsorsLogos/interview-cake.jpg';
-import ll from './Assets/sponsorsLogos/ll.png';
-import qoom from './Assets/sponsorsLogos/qoom.svg';
-import Replit from './Assets/sponsorsLogos/replit.png';
-import sublime from './Assets/sponsorsLogos/sublime.png';
-import taskade from './Assets/sponsorsLogos/taskade.png';
-import lyin from './Assets/teami/lyin.jpg';
+import wolfram from './Assets/sponsorsLogos/wolfram.png'
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
@@ -27,7 +14,7 @@ import me from './Assets/teami/me.png';
 import allen from './Assets/teami/allen.png';
 import mohit from './Assets/teami/mohit.png';
 import shashanks from './Assets/teami/shashanks.png';
-import shashankr from './Assets/teami/shashankr2.jpeg';
+import shashankr from './Assets/teami/shashankr3.png';
 import arnav from './Assets/teami/arnav.jpeg';
 
 // Importing all Judges images from Assets
@@ -43,14 +30,14 @@ const TOP_SECTION = {
   SHORT_DESCRIPTION:
     'Join us starting July 18, 2022 with over 300 students from across the nation for a 3-week workshop program followed by a 24-hour hackathon of creation, innovation, & fun.',
   IMG_SRC: boy,
-  DISCORD_LINK: 'https://discord.gg/zR34N8NX8t',
+  DISCORD_LINK: 'https://discord.gg/sTsZ7tfmKb',
   JUDGES_FORM_LINK: 'https://forms.gle/s1Ts8BCNjYZ4mAPv6',
   HACKERS_REGISTRATION_FORM_LINK: 'https://forms.gle/vUdSfPfp1DNh8D3p8'
 };
 
 const SOCIALS = {
   instagram: '',
-  discord: 'https://discord.gg/zR34N8NX8t',
+  discord: 'https://discord.gg/sTsZ7tfmKb',
   linkedin: 'https://www.linkedin.com/company/killabytez-robotics',
   devpost: 'https://killabytez-hacks.devpost.com/',
   email: 'mailto:info@killabytez.club',
@@ -393,7 +380,7 @@ const JudgesInfo = [
  */
 
 const sponsorLogos = [
-  // [{src: cfc}, {src: sublime}, {src: echoAR}], //Array 1
+  [{src: wolfram}], //Array 1
   // [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
   // [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
   // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
