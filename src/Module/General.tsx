@@ -4,7 +4,7 @@
  * or you can provide a cloud link in src also
  */
 import boy from './Assets/boy.png';
-import wolfram from './Assets/sponsorsLogos/wolfram.png'
+import wolfram from './Assets/sponsorsLogos/wolfram.png';
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
