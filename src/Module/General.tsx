@@ -331,8 +331,8 @@ const JudgesInfo = [
     {
       Name: 'Maksim Kuznetsov',
       role: 'Maksim Kuznetsov',
-      github: 'https://www.github.com/bcbro',
-      linkedin: 'https://www.linkedin.com/in/brian-cisto-b36850217/',
+      github: 'https://github.com/exactor96',
+      linkedin: 'https://www.linkedin.com/in/max-kuzn/',
       img: maksim
     },
     {
