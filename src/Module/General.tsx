@@ -190,6 +190,8 @@ const schedule = [
  * in a group of 3.
  */
 
+const PrizeTotal=6570;
+
 const Prizeinfo = [
   [
     //Array 1
@@ -450,6 +452,7 @@ export {
   SOCIALS,
   FOOTER,
   Prizeinfo,
+  PrizeTotal,
   TeamInfo,
   JudgesInfo,
   frequentlyAskedQuestions,
