@@ -190,7 +190,7 @@ const schedule = [
  * in a group of 3.
  */
 
-const PrizeTotal=6570;
+const PrizeTotal = 6570;
 
 const Prizeinfo = [
   [

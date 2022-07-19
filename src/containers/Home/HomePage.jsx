@@ -134,7 +134,7 @@ export default function HomePage() {
         {/* ********Prizes here ***** */}
         <Row className="prizesection" id="prizes">
           <PrizeHeading type="Prize section" />
-          <h1 style="color: aqua">Over {PrizeTotal} in Prizes!</h1>
+          {/* <h1 style="color: aqua">Over {PrizeTotal} in Prizes!</h1> */}
           {Prizeinfo.map(PrizeGroup)}
         </Row>
         {/* ********Prizes ending here ***** */}
