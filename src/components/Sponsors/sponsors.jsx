@@ -7,6 +7,36 @@ function SponsorsHead() {
   return <h1 className="shead">Sponsors & Partners</h1>;
 }
 
+function SponsorsGold() {
+  return (
+    <div className="sponsorsGold">
+      <h1 style="color: #FFD700;"> Gold Sponsors </h1>
+      <br></br>
+    </div>
+  );
+}
+
+function SponsorsSilver() {
+  return (
+    <div className="sponsorsSilver">
+      <h1 style="color: #AFAFAF;"> Silver Sponsors </h1>
+      <br></br>
+    </div>
+  );
+}
+
+
+function SponsorsBronze() {
+  return (
+    <div className="sponsorBronze">
+      <h1 style="color: #CD7F32;"> Bronze Sponsors </h1>
+      <br></br>
+    </div>
+  );
+}
+
+
+
 function Sponsor(props) {
   return (
     <div className="Sponsor ">
@@ -26,4 +56,4 @@ function SponsorUS() {
   );
 }
 
-export {SponsorsHead, Sponsor, SponsorUS};
+export {SponsorsHead, Sponsor, SponsorUS, SponsorsBronze, SponsorsSilver, SponsorsGold};

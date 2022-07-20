@@ -18,7 +18,10 @@ import {
 import {
   Sponsor,
   SponsorsHead,
-  SponsorUS
+  SponsorUS,
+  SponsorsBronze,
+  SponsorsSilver,
+  SponsorsGold
 } from '../../components/Sponsors/sponsors.jsx';
 import {JoinTeam, Member} from '../../components/team/team';
 import {Myinfo} from '../../components/Top-division-components/Top-division-components.jsx';
@@ -28,7 +31,9 @@ import {
   JudgesInfo,
   Prizeinfo,
   PrizeTotal,
-  sponsorLogos,
+  sponsorBronzeLogos,
+  sponsorSilverLogos,
+  sponsorGoldLogos,
   TeamInfo,
   TOP_SECTION
 } from '../../Module/General';
@@ -171,7 +176,12 @@ export default function HomePage() {
         <Row className="sponsorSection" id="sponsors">
           <SponsorsHead />
           <SponsorUS />
-          {sponsorLogos.map(SponsorGroup)}
+          <SponsorsGold/>
+          {sponsorGoldLogos.map(SponsorGroup)}
+          <SponsorsSilver/>
+          {sponsorSilverLogos.map(SponsorGroup)}
+          <SponsorsBronze/>
+          {sponsorBronzeLogos.map(SponsorGroup)}
         </Row>
         {/* ********Sponsors ending here ***** */}
       </Container>

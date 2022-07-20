@@ -5,6 +5,8 @@
  */
 import boy from './Assets/boy.png';
 import wolfram from './Assets/sponsorsLogos/wolfram.png';
+import aops from './Assets/sponsorsLogos/aops.png';
+import balsamiq from './Assets/sponsorsLogos/balsamiq.png';
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
@@ -252,7 +254,7 @@ const Prizeinfo = [
     {
       icon: <i className="fas fa-user-friends seventh fa-3x "></i>,
       type: 'More prizes',
-      content: 'More prizes will be revealed later\n'
+      content: 'More prizes will be revealed later. Stay tuned!'
     }
   ]
 ];
@@ -381,13 +383,28 @@ const JudgesInfo = [
  * in a group of 3.
  */
 
-const sponsorLogos = [
+const sponsorGoldLogos = [
   [{src: wolfram}], //Array 1
   // [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
   // [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
   // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
   []
 ];
+const sponsorSilverLogos = [
+  [{src: aops}], //Array 1
+  // [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
+  // [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
+  // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
+  []
+];
+const sponsorBronzeLogos = [
+  [{src: balsamiq}], //Array 1
+  // [{src: taskade}, {src: Replit}, {src: qoom}], //Array 2
+  // [{src: interviewC}, {src: pass}, {src: glimpse}], //Array 3
+  // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
+  []
+];
+
 
 /** Instructions
  * Follow the strcuture provided below to add as many as FAQ's you want
@@ -456,7 +473,9 @@ export {
   TeamInfo,
   JudgesInfo,
   frequentlyAskedQuestions,
-  sponsorLogos,
+  sponsorBronzeLogos,
+  sponsorSilverLogos,
+  sponsorGoldLogos,
   schedule,
   calenderStartingDate
 };
