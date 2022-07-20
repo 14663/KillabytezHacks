@@ -176,12 +176,12 @@ export default function HomePage() {
         <Row className="sponsorSection" id="sponsors">
           <SponsorsHead />
           <SponsorUS />
-          <SponsorsGold />
-          {/* {sponsorGoldLogos.map(SponsorGroup)} */}
-          <SponsorsSilver />
-          {/* {sponsorSilverLogos.map(SponsorGroup)} */}
-          <SponsorsBronze />
-          {/* {sponsorBronzeLogos.map(SponsorGroup)} */}
+          {/* <SponsorsGold /> */}
+          {sponsorGoldLogos.map(SponsorGroup)}
+          {/* <SponsorsSilver /> */}
+          {sponsorSilverLogos.map(SponsorGroup)}
+          {/* <SponsorsBronze /> */}
+          {sponsorBronzeLogos.map(SponsorGroup)}
         </Row>
         {/* ********Sponsors ending here ***** */}
       </Container>
