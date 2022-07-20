@@ -25,7 +25,6 @@ function SponsorsSilver() {
   );
 }
 
-
 function SponsorsBronze() {
   return (
     <div className="sponsorBronze">
@@ -34,8 +33,6 @@ function SponsorsBronze() {
     </div>
   );
 }
-
-
 
 function Sponsor(props) {
   return (
@@ -56,4 +53,11 @@ function SponsorUS() {
   );
 }
 
-export {SponsorsHead, Sponsor, SponsorUS, SponsorsBronze, SponsorsSilver, SponsorsGold};
+export {
+  SponsorsHead,
+  Sponsor,
+  SponsorUS,
+  SponsorsBronze,
+  SponsorsSilver,
+  SponsorsGold
+};

@@ -5,8 +5,8 @@
  */
 import boy from './Assets/boy.png';
 import wolfram from './Assets/sponsorsLogos/wolfram.png';
-import aops from './Assets/sponsorsLogos/aops.png';
-import balsamiq from './Assets/sponsorsLogos/balsamiq.png';
+import aops from './Assets/sponsorsLogos/aops.jpeg';
+import balsamiq from './Assets/sponsorsLogos/balsamiq.jpeg';
 /** Put all your sponsors logo inside folder `sponsorLogos`
  * and import them in the above and update `src` in sponsorLogos
  * or you can provide a cloud link in src
@@ -404,7 +404,6 @@ const sponsorBronzeLogos = [
   // [{src: egg}, {src: ll}, {src: ACF}] //Array 4
   []
 ];
-
 
 /** Instructions
  * Follow the strcuture provided below to add as many as FAQ's you want
