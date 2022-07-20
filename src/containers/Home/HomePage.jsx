@@ -177,11 +177,11 @@ export default function HomePage() {
           <SponsorsHead />
           <SponsorUS />
           <SponsorsGold />
-          {sponsorGoldLogos.map(SponsorGroup)}
+          {/* {sponsorGoldLogos.map(SponsorGroup)} */}
           <SponsorsSilver />
-          {sponsorSilverLogos.map(SponsorGroup)}
+          {/* {sponsorSilverLogos.map(SponsorGroup)} */}
           <SponsorsBronze />
-          {sponsorBronzeLogos.map(SponsorGroup)}
+          {/* {sponsorBronzeLogos.map(SponsorGroup)} */}
         </Row>
         {/* ********Sponsors ending here ***** */}
       </Container>
