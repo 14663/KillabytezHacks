@@ -10,7 +10,7 @@ function SponsorsHead() {
 function SponsorsGold() {
   return (
     <div>
-      <h1 style="color: #FFD700;"> Gold Sponsors </h1>
+      <h1 style={{color: +'#FFD700'}}> Gold Sponsors </h1>
       <br></br>
     </div>
   );
@@ -19,7 +19,7 @@ function SponsorsGold() {
 function SponsorsSilver() {
   return (
     <div>
-      <h1 style="color: #AFAFAF;"> Silver Sponsors </h1>
+      <h1 style={{color: +'#AFAFAF'}}> Silver Sponsors </h1>
       <br></br>
     </div>
   );
@@ -28,7 +28,7 @@ function SponsorsSilver() {
 function SponsorsBronze() {
   return (
     <div>
-      <h1 style="color: #CD7F32;"> Bronze Sponsors </h1>
+      <h1 style={{color: +'#CD7F32'}}> Bronze Sponsors </h1>
       <br></br>
     </div>
   );
