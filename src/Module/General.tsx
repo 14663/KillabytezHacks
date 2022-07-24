@@ -21,6 +21,8 @@ import arnav from './Assets/teami/arnav.jpeg';
 
 // Importing all Judges images from Assets
 import maksim from './Assets/judges/maksim.jpg';
+import nikita from './Assets/judges/nikita.jpeg';
+import veronika from './Assets/judges/veronika.jpeg';
 
 const TOP_SECTION = {
   TITLE: 'Join Killabytez Hacks',
@@ -327,52 +329,18 @@ const JudgesInfo = [
       img: maksim
     },
     {
-      Name: 'Brian Cisto',
-      role: 'Brian Cisto',
-      github: 'https://www.github.com/bcbro',
-      linkedin: 'https://www.linkedin.com/in/brian-cisto-b36850217/',
-      img: me
+      Name: 'Nikita Vasilev',
+      role: 'Nikita Vasilev',
+      github: '',
+      linkedin: 'https://linkedin.com/in/nikita-vasilev-127552176',
+      img: nikita
     },
     {
-      Name: 'Mohit Tamboli',
-      role: 'Mohit Tamboli',
-      github: 'https://github.com/mohito1',
-      linkedin: '',
-      img: mohit
-    }
-  ],
-  [
-    //Array 2
-    {
-      Name: 'Shashank Shriram',
-      role: 'Shashank Shriram',
-      github: 'https://github.com/shashankshriram123',
-      linkedin: 'https://www.linkedin.com/in/shashank-shriram-939745242',
-      img: shashanks
-    },
-    {
-      Name: 'Shashank Karthik Rajan',
-      role: 'Shashank Karthik Rajan',
-      github: 'https://github.com/SKR1205',
-      linkedin: 'https://www.linkedin.com/in/shashank-karthik-rajan-59ab0220b',
-      img: shashankr
-    },
-    {
-      Name: 'Arnav Arora',
-      role: 'Arnav Arora',
-      github: 'https://github.com/ArnArora',
-      linkedin: 'https://www.linkedin.com/in/arnav-arora-8762171b4/',
-      img: arnav
-    }
-  ],
-  [
-    //Array 3
-    {
-      Name: 'Allen Cisto',
-      role: 'Allen Cisto',
-      github: 'https://github.com/allencisto',
-      linkedin: 'https://www.linkedin.com/in/allen-cisto-54a679233/',
-      img: allen
+      Name: 'Veronika Golubeva',
+      role: 'Veronika Golubeva',
+      github: '',
+      linkedin: 'https://www.linkedin.com/in/golubeva-veronika-360331147',
+      img: veronika
     }
   ]
 ];
