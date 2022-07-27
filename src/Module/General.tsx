@@ -20,6 +20,7 @@ import shashankr from './Assets/teami/shashankr3.png';
 import arnav from './Assets/teami/arnav.jpeg';
 
 // Importing all Judges images from Assets
+import neil from './Assets/judges/neil.jpg';
 import maksim from './Assets/judges/maksim.jpg';
 import nikita from './Assets/judges/nikita.jpeg';
 import veronika from './Assets/judges/veronika.jpeg';
@@ -322,6 +323,13 @@ const JudgesInfo = [
   [
     //Array 1
     {
+      Name: 'Neil Damle',
+      role: 'Neil Damle',
+      github: 'https://github.com/ndamle2',
+      linkedin: 'https://www.linkedin.com/in/neil-damle/',
+      img: neil
+    }
+    ,{
       Name: 'Maksim Kuznetsov',
       role: 'Maksim Kuznetsov',
       github: 'https://github.com/exactor96',
@@ -334,7 +342,10 @@ const JudgesInfo = [
       github: '',
       linkedin: 'https://linkedin.com/in/nikita-vasilev-127552176',
       img: nikita
-    },
+    }
+  ],
+  [
+    //Array 2
     {
       Name: 'Veronika Golubeva',
       role: 'Veronika Golubeva',
