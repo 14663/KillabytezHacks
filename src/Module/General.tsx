@@ -328,8 +328,8 @@ const JudgesInfo = [
       github: 'https://github.com/ndamle2',
       linkedin: 'https://www.linkedin.com/in/neil-damle/',
       img: neil
-    }
-    ,{
+    },
+    {
       Name: 'Maksim Kuznetsov',
       role: 'Maksim Kuznetsov',
       github: 'https://github.com/exactor96',
